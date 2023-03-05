@@ -1,0 +1,336 @@
+[
+  [
+    {
+      "siteName": "zenn",
+      "title": "フロントエンド API通信戦略",
+      "pubDate": "Sun, 05 Mar 2023 02:41:53 GMT",
+      "link": "https://zenn.dev/sutamac/articles/27246dfe1b5a8e"
+    },
+    {
+      "siteName": "zenn",
+      "title": "私が約100チーム参加した技育CAMPアドバンスで優勝出来た理由",
+      "pubDate": "Sun, 05 Mar 2023 02:00:00 GMT",
+      "link": "https://zenn.dev/nayuta9999/articles/ec5737477d0b6d"
+    },
+    {
+      "siteName": "zenn",
+      "title": "Linuxにおけるデバイスファイルの仕組み",
+      "pubDate": "Sat, 04 Mar 2023 22:49:55 GMT",
+      "link": "https://zenn.dev/a_kawashiro/articles/387fa97163dd66"
+    },
+    {
+      "siteName": "zenn",
+      "title": "VisualStudio CodeとGoogle Apps ScriptでChatGPT(gpt-3.5-turbo)をより安全快適に使う",
+      "pubDate": "Sat, 04 Mar 2023 18:04:55 GMT",
+      "link": "https://zenn.dev/o_ob/articles/gas-chatgpt-api"
+    },
+    {
+      "siteName": "zenn",
+      "title": "ESLint とかのインストールだるくないすか？を解決する OSS を書いてる話",
+      "pubDate": "Sat, 04 Mar 2023 17:01:52 GMT",
+      "link": "https://zenn.dev/huequica/articles/create_oss_pkfire"
+    },
+    {
+      "siteName": "zenn",
+      "title": "aichat -- ChatGPT APIを利用したコマンドラインツールの紹介",
+      "pubDate": "Sat, 04 Mar 2023 16:46:20 GMT",
+      "link": "https://zenn.dev/kawachi/articles/845c7fbc6ce53a"
+    },
+    {
+      "siteName": "zenn",
+      "title": "FlutterアプリにChatGPT APIを組み込んでみた",
+      "pubDate": "Sat, 04 Mar 2023 10:37:40 GMT",
+      "link": "https://zenn.dev/toridori/articles/25c310b2dad300"
+    },
+    {
+      "siteName": "zenn",
+      "title": "１ヶ月で本格的な Flutter アプリ開発（リポジトリも公開）",
+      "pubDate": "Sat, 04 Mar 2023 04:03:06 GMT",
+      "link": "https://zenn.dev/ryota_iwamoto/articles/bad_log_app_in_a_month"
+    },
+    {
+      "siteName": "zenn",
+      "title": "Next.js v13のMiddlewareを使ってvercelステージング環境を構築しよう",
+      "pubDate": "Sat, 04 Mar 2023 01:47:38 GMT",
+      "link": "https://zenn.dev/otacle/articles/97a32dc02106be"
+    },
+    {
+      "siteName": "zenn",
+      "title": "JavaScriptの基礎をまとめた備忘録",
+      "pubDate": "Fri, 03 Mar 2023 22:00:00 GMT",
+      "link": "https://zenn.dev/ryome/articles/9312d5c8dcf34b"
+    },
+    {
+      "siteName": "zenn",
+      "title": "いい感じに好きなコマンドが実行できる VS Code 拡張を作った(Commando)",
+      "pubDate": "Fri, 03 Mar 2023 18:48:21 GMT",
+      "link": "https://zenn.dev/seelog/articles/article_commando"
+    },
+    {
+      "siteName": "zenn",
+      "title": "チケットの書き方（情報共有のための文書の書き方）",
+      "pubDate": "Fri, 03 Mar 2023 14:25:29 GMT",
+      "link": "https://zenn.dev/yuki476/articles/3a6f974ee796d1"
+    },
+    {
+      "siteName": "zenn",
+      "title": "やってよかったbuild own x系(自作OSとか自作DBみたいな自作～)を紹介してみる",
+      "pubDate": "Fri, 03 Mar 2023 13:20:34 GMT",
+      "link": "https://zenn.dev/cube/articles/a6f88a9fbbe989"
+    },
+    {
+      "siteName": "zenn",
+      "title": "実践！大規模言語モデル / 1000億パラメータ越えモデルを動かすには？",
+      "pubDate": "Fri, 03 Mar 2023 09:00:00 GMT",
+      "link": "https://zenn.dev/turing_motors/articles/26e1f1be50c0b5"
+    },
+    {
+      "siteName": "zenn",
+      "title": "PhpStormを使ってるのに、わざわざ未だにブラウザでDeepL翻訳してるってマジ？",
+      "pubDate": "Fri, 03 Mar 2023 06:51:40 GMT",
+      "link": "https://zenn.dev/manalink_dev/articles/dbd0c90f705cf7"
+    },
+    {
+      "siteName": "zenn",
+      "title": "マークダウンから Next.js で記事を生成する運用方法を改善している話",
+      "pubDate": "Fri, 03 Mar 2023 01:00:00 GMT",
+      "link": "https://zenn.dev/ivry/articles/e4a13bd03b91ae"
+    },
+    {
+      "siteName": "zenn",
+      "title": "TypeScriptを使ってChatGPT APIをアクセスしてみる",
+      "pubDate": "Thu, 02 Mar 2023 16:15:42 GMT",
+      "link": "https://zenn.dev/erukiti/articles/ts-chatgpt-api"
+    },
+    {
+      "siteName": "zenn",
+      "title": "あなたが知らないであろう15個の強力なJavaScriptのテクニック🗡🔈🔥",
+      "pubDate": "Thu, 02 Mar 2023 02:21:02 GMT",
+      "link": "https://zenn.dev/s_yasunaga/articles/e87b16cb0be378"
+    },
+    {
+      "siteName": "zenn",
+      "title": "【最新速報】ChatGPT APIの「概要と使い方」（Pythonコード付き）",
+      "pubDate": "Thu, 02 Mar 2023 01:25:09 GMT",
+      "link": "https://zenn.dev/umi_mori/articles/chatgpt-api-python"
+    },
+    {
+      "siteName": "zenn",
+      "title": "Rustで検討されているKeyword Genericsについての現状",
+      "pubDate": "Wed, 01 Mar 2023 12:25:21 GMT",
+      "link": "https://zenn.dev/helloyuki/articles/09f2b6e59e0aa4"
+    }
+  ],
+  [
+    {
+      "siteName": "qiita",
+      "title": "いちいちシェルコマンド思い出せないので、ChatGPTで自然言語からスクリプトを生成するツールつくった",
+      "pubDate": "2023-03-03T08:33:59.000Z",
+      "author": "hirokidaichi",
+      "link": "https://qiita.com/hirokidaichi/items/6d568d5ddcb02a91edf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "Whisper APIとChatGPT APIを使用して、超速で返答してくれるAIキャラクターを作ったよ！",
+      "pubDate": "2023-03-03T15:43:12.000Z",
+      "author": "mfuji3326",
+      "link": "https://qiita.com/mfuji3326/items/2553e6d44616ca315844?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "YoutubeのHTMLが酷すぎて泣いたが、結局自分が悪かった日",
+      "pubDate": "2023-03-03T09:30:02.000Z",
+      "author": "kurokky",
+      "link": "https://qiita.com/kurokky/items/9ff4c36f3821b2ed20fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "ChatGPT✕Raspberry Piで音声対話してみた！",
+      "pubDate": "2023-03-03T15:28:18.000Z",
+      "author": "akitomonam",
+      "link": "https://qiita.com/akitomonam/items/879f26d1c62d0315ee8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "Google の FLAN-20B with UL2 を動かしてChatGPT APIのように使ってみる！",
+      "pubDate": "2023-03-04T00:56:30.000Z",
+      "author": "sakasegawa",
+      "link": "https://qiita.com/sakasegawa/items/7394fe68eb0087b3c4a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "ruby-openaiを使ってChatGPT APIを叩いてみよう",
+      "pubDate": "2023-03-03T10:23:00.000Z",
+      "author": "yocajii",
+      "link": "https://qiita.com/yocajii/items/cbce3cb92c601984314c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "ChatGPTのAPIを使って記憶（過去の会話をある程度覚えている）のあるAIキャラクターを作ってみる",
+      "pubDate": "2023-03-02T10:05:03.000Z",
+      "author": "3dy3day",
+      "link": "https://qiita.com/3dy3day/items/e399e53af04d5ba151a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "UnityでChatGPT APIを利用する",
+      "pubDate": "2023-03-04T20:22:42.000Z",
+      "author": "mikito",
+      "link": "https://qiita.com/mikito/items/e3f897e641e4e6400ebe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "ChatGPT APIにおじさん構文言わせてみた😆👍",
+      "pubDate": "2023-03-03T03:35:39.000Z",
+      "author": "Hiromu25",
+      "link": "https://qiita.com/Hiromu25/items/aea6b06d5df956deb92a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "# 「ゲームで学ぶ探索アルゴリズム実践入門」のサンプルコードでAtCoderの問題を解いてみた",
+      "pubDate": "2023-03-03T13:01:24.000Z",
+      "author": "thun-c",
+      "link": "https://qiita.com/thun-c/items/c5c2c7295f884cd0355c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "【TypeScript】型の問題集 type-challenges に挑戦！【解説つき】",
+      "pubDate": "2023-03-03T00:45:57.000Z",
+      "author": "wataru86",
+      "link": "https://qiita.com/wataru86/items/f1356b5d1aef30012a20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "ChatGPT API を使用してMayaを（Pythonスクリプトで）操作してもらう",
+      "pubDate": "2023-03-04T17:16:46.000Z",
+      "author": "akasaki1211",
+      "link": "https://qiita.com/akasaki1211/items/34d0f89e0ae2c6efaf48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "ChatGPT＋3Dモデルの音声対話エージェントを15分で開発する方法⚡️",
+      "pubDate": "2023-03-04T16:39:05.000Z",
+      "author": "uezo",
+      "link": "https://qiita.com/uezo/items/7ff1566f05c0a1c74a46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "PHPの関数とメソッドは別物",
+      "pubDate": "2023-03-04T18:21:18.000Z",
+      "author": "tadsan",
+      "link": "https://qiita.com/tadsan/items/4dd4d5fad4048eafa99b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "ChatGPT（GPT3）にプログラミング言語で指示を与える",
+      "pubDate": "2023-03-04T04:50:50.000Z",
+      "author": "shimajiroxyz",
+      "link": "https://qiita.com/shimajiroxyz/items/7ca1f34c12f652c7ea07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "chatGPTを使って複数キャラに延々とお喋りして頂くシステムを開発した",
+      "pubDate": "2023-03-04T08:20:48.000Z",
+      "author": "mokkun",
+      "link": "https://qiita.com/mokkun/items/bd7709cfeaf86028940b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "【個人開発】DMM Web サービスのAPIを使ってお気に入り女優さんが出演しているキャンペーン中の商品を検索できるサービスを作った",
+      "pubDate": "2023-03-04T08:43:55.000Z",
+      "author": "hiroin",
+      "link": "https://qiita.com/hiroin/items/a080525fb839b1db263c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "[UnityでWhisper APIを使う方法]改め、ChatGPTが自分の能力を超えつつあると実感した瞬間",
+      "pubDate": "2023-03-02T22:00:11.000Z",
+      "author": "mfuji3326",
+      "link": "https://qiita.com/mfuji3326/items/c46a56549e3991926fb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "PCAによる特徴量自動生成",
+      "pubDate": "2023-03-04T13:31:17.000Z",
+      "author": "mkdirman",
+      "link": "https://qiita.com/mkdirman/items/f05f5e5031b4795b02a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "FlexGenをNVIDIA Tesla V100で動かしてみる",
+      "pubDate": "2023-03-04T08:06:14.000Z",
+      "author": "tar_xzvf",
+      "link": "https://qiita.com/tar_xzvf/items/e7941e8dc7460afbb16d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "ChatGPT APIをSlackから利用できるようにしてみた",
+      "pubDate": "2023-03-02T14:37:47.000Z",
+      "author": "Hiromu25",
+      "link": "https://qiita.com/Hiromu25/items/527b49eb3e5541ae7326?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "EffectTaskのtask/run/fireAndForgetメソッドの使い分け",
+      "pubDate": "2023-03-04T17:34:18.000Z",
+      "author": "takehilo",
+      "link": "https://qiita.com/takehilo/items/a2c2186db53f4406c095?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "Elixir ETSインメモリデータベースのバックアップと復元",
+      "pubDate": "2023-03-04T02:32:14.000Z",
+      "author": "mnishiguchi",
+      "link": "https://qiita.com/mnishiguchi/items/16f520f083c2487f93e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "ChatGPTのAPIをGASで叩き、SlackBotで会話できるようにする",
+      "pubDate": "2023-03-04T14:01:15.000Z",
+      "author": "Keichan_15",
+      "link": "https://qiita.com/Keichan_15/items/a4facca87d178f356397?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "リファクタリング文化が根付かない企業：あなたはどうする？",
+      "pubDate": "2023-03-03T01:06:54.000Z",
+      "author": "tronicboy",
+      "link": "https://qiita.com/tronicboy/items/24467c72de0bf6292cca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "バッチ処理革命。コンバータもgpt-3.5-turbo (ChatGPT API)でほぼ作れてしまうという話",
+      "pubDate": "2023-03-04T01:54:29.000Z",
+      "author": "naosugi1987",
+      "link": "https://qiita.com/naosugi1987/items/1e5349424e4ed878c84d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "初ハッカソンがめちゃめちゃ楽しかった件について",
+      "pubDate": "2023-03-03T13:47:57.000Z",
+      "author": "Ryota_programing",
+      "link": "https://qiita.com/Ryota_programing/items/c8668ba5236c45299de9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "5分でゼロからChatGPTのAPIを叩いてみるまで【初心者向けに全て解説】",
+      "pubDate": "2023-03-05T01:42:32.000Z",
+      "author": "JinA293",
+      "link": "https://qiita.com/JinA293/items/ab953c40ce73d161f4fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "未経験からFlutterエンジニアへ　学習に使用したもの個人的なオススメまとめ 【動画編】",
+      "pubDate": "2023-03-04T07:43:17.000Z",
+      "author": "taisuke_k",
+      "link": "https://qiita.com/taisuke_k/items/a3d6b3caa564f8ea5ea1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    {
+      "siteName": "qiita",
+      "title": "機能から理解するDatabricks「Unity Catalog」",
+      "pubDate": "2023-03-03T04:39:38.000Z",
+      "author": "nttd-saitouyun",
+      "link": "https://qiita.com/nttd-saitouyun/items/57c2ac16d874539a1209?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    }
+  ]
+]

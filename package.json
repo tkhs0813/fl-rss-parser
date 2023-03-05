@@ -1,0 +1,22 @@
+{
+  "name": "fl-rss-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "update-rss": "node ./rss-parser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emp1tsu/fl-rss-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emp1tsu/fl-rss-parser/issues"
+  },
+  "homepage": "https://github.com/emp1tsu/fl-rss-parser#readme",
+  "devDependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
