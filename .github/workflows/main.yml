@@ -15,7 +15,7 @@ jobs:
       - name: Generate files
         run: npm run update-rss
       - name: Upload files
-      uses: actions/upload-artifact@v2
-      with:
-        name: data.json
-        path: ./data.json
+        uses: actions/upload-artifact@v2
+        with:
+          name: data.json
+          path: ./data.json
