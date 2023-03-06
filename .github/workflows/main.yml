@@ -17,9 +17,5 @@ jobs:
       - name: Upload files
         uses: actions/upload-artifact@v2
         with:
-          name: data.json
+          name: data
           path: ./data.json
-      - name: Download files
-        uses: actions/download-artifact@v2
-        with:
-          name: data.json
