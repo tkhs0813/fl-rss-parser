@@ -19,3 +19,7 @@ jobs:
         with:
           name: data.json
           path: ./data.json
+      - name: Download files
+        uses: actions/download-artifact@v2
+        with:
+          name: data.json
